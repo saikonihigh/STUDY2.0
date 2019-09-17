@@ -1,4 +1,4 @@
-# 9月第 ~~2~~ 3周学习计划
+9月第 ~~2~~ 3周学习计划
 
 ## 	目标
 
@@ -50,9 +50,6 @@
 
 - 提交到仓库：git commit -m" "     	-m""内是对文件的说明
 
-
-![QQ拼音截图20190916130333](https://github.com/saikonihigh/README/blob/master/QQ拼音截图20190916130333.png)
-
 - git status：查看仓库状态
 
 
@@ -65,23 +62,12 @@
 
 - git log：查看提交日志
 
-
-![QQ拼音截图20190916210812](C:https://github.com/saikonihigh/README/blob/master/QQ拼音截图20190916210812.png)
-
 - git reset --hard head^：退回上一个版本
 
 
 - git reset --hard +版本号：退回未来的某个版本（用于撤销上面的操作）
 
-
-![QQ拼音截图20190916211559](C:\Users\86132\Desktop\QQ拼音截图20190916211559.png)
-
 - git reflog：查看记录的每一次命令（可以查找版本号）
-
-
-#### 工作区和暂存区
-
-![QQ拼音截图20190916215727](C:https://github.com/saikonihigh/README/blob/master/QQ拼音截图20190916215727.png)
 
 #### 管理修改
 
