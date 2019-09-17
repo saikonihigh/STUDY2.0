@@ -35,7 +35,7 @@
 
 ​	3.效果
 
-![QQ拼音截图20190915225357](C:\Users\86132\Desktop\QQ拼音截图20190915225357.png)
+![QQ拼音截图20190915225357](https://github.com/saikonihigh/README/blob/master/QQ%E6%8B%BC%E9%9F%B3%E6%88%AA%E5%9B%BE20190915225357.png)
 
 ### 小结
 
@@ -51,7 +51,7 @@
 - 提交到仓库：git commit -m" "     	-m""内是对文件的说明
 
 
-![QQ拼音截图20190916130333](C:\Users\86132\Desktop\QQ拼音截图20190916130333.png)
+![QQ拼音截图20190916130333](https://github.com/saikonihigh/README/blob/master/QQ拼音截图20190916130333.png)
 
 - git status：查看仓库状态
 
@@ -66,7 +66,7 @@
 - git log：查看提交日志
 
 
-![QQ拼音截图20190916210812](C:\Users\86132\Desktop\QQ拼音截图20190916210812.png)
+![QQ拼音截图20190916210812](C:https://github.com/saikonihigh/README/blob/master/QQ拼音截图20190916210812.png)
 
 - git reset --hard head^：退回上一个版本
 
@@ -81,14 +81,14 @@
 
 #### 工作区和暂存区
 
-![QQ拼音截图20190916215727](C:\Users\86132\Desktop\QQ拼音截图20190916215727.png)
+![QQ拼音截图20190916215727](C:https://github.com/saikonihigh/README/blob/master/QQ拼音截图20190916215727.png)
 
 #### 管理修改
 
 - cat+文件名：查看文档内容
 
 
-- git diff head -- + 文件名：查看文本改动情况![QQ拼音截图20190916222453](C:\Users\86132\Desktop\QQ拼音截图20190916222453.png)
+- git diff head -- + 文件名：查看文本改动情况![https://github.com/saikonihigh/README/blob/master/QQ拼音截图20190916222453.png)
 
 
 #### 撤销修改
