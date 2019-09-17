@@ -2,7 +2,7 @@
 
 ## 	目标
 
-> ！[image](https://github.com/saikonihigh/README/blob/master/QQ%E6%8B%BC%E9%9F%B3%E6%88%AA%E5%9B%BE20190915223058.png)
+> ![image](https://github.com/saikonihigh/README/blob/master/QQ%E6%8B%BC%E9%9F%B3%E6%88%AA%E5%9B%BE20190915223058.png)
 >
 > **补充**：1.了解编程的基础知识
 
